@@ -14,10 +14,10 @@ API_ID = int(getenv("API_ID", "12987601"))
 API_HASH = getenv("API_HASH","a6581bb9160931c45197461bb7e81f90")
 
 ## توكن البوت بنجيبو من هنا @Botfather in Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN","1480911289:AAE8LxBRKnxhpbopAIlLplKIJgxy6c8IfWE")
+BOT_TOKEN = getenv("BOT_TOKEN","1480911289:AAF-CN5yyxF3Dmhws9ZFWy3xlFmyCTMgzyI")
 
 # المونج لو ممعكش سيبو زي مهوه
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://moon:bootsmoon@cluster0.uyvnnox.mongodb.net/?retryWrites=true&w=majority")
 
 # مده الاغنيه بتبقي ٦٠ دقيقه انا مسويها ٣٠٠ تقدر تزودها
 DURATION_LIMIT_MIN = int(
