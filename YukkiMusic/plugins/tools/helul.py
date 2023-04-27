@@ -16,15 +16,15 @@ from YukkiMusic import (Apple, Resso, SoundCloud, Spotify, Telegram, YouTube, ap
     filters.command(["المطور","السورس"],""))
 async def khalid(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph//file/2d9c0a1babe6311a503c0.jpg",
-        caption=f"""𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 & 𝗌𝗈𝗎𝗋𝖼𝖾 𝖥𝗅𝖺𝗆𝖾𝖭𝖼𝗈 .""",
+        photo=f"https://graph.org/file/7f87be8bf898631bc70f5.jpg",
+        caption=f"""𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝗍𝗁𝖾 𝗆𝗈𝗈𝗇 𝗆𝗎𝗌𝗂𝖼 𝖻𝗈𝗍 .""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                InlineKeyboardButton("𓏺 𝖳𝖺𝗁𝖺 𝖺𝗅 𝖪𝗂𝗅𝖺𝗇𝗂 .", url=f"https://t.me/GBBBBB"),
+                InlineKeyboardButton("𝖺𝖡𝗌 𝖠𝗁𝗆𝖾𝖽", url=f"https://t.me/r6r8r"),
                 ],[
                 InlineKeyboardButton(
-                        "𓏺 𝖲𝗈𝗎𝗋𝖼𝖾 𝖥𝗅𝖺𝗆𝖾𝖭𝖼𝗈 𓏺", url=f"https://t.me/o_xox"),
+                        "𝖬𝗒 𝖲𝖳𝗎𝖿𝖿", url=f"https://t.me/uzzdd"),
                 ]
             ]
         ),
