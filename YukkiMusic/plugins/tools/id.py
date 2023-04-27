@@ -13,7 +13,7 @@ from YukkiMusic import (Apple, Resso, SoundCloud, Spotify, Telegram, YouTube, ap
 #########
 #الاوامر
 @app.on_message(
-    filters.command(["ايدي","id"],""))
+    filters.command(["ايددي","ivvvvhgjd"],""))
 async def vambir(client: Client, message: Message):
     usr = await client.get_users(message.from_user.id)
     name = usr.first_name
@@ -23,7 +23,7 @@ async def vambir(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                       "𓏺 𝖲𝗈𝗎𝗋𝖼𝖾 𝖥𝗅𝖺𝗆𝖾𝖭𝖼𝗈 ", url=f"https://t.me/o_xox"),
+                       "𝖬𝗒 𝖲𝖳𝗎𝖿𝖿", url=f"https://t.me/uzzdd"),
                 ],
                 [  
                     InlineKeyboardButton(
