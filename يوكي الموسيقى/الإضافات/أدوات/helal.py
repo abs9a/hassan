@@ -16,12 +16,12 @@ from YukkiMusic import (Apple, Resso, SoundCloud, Spotify, Telegram, YouTube, ap
     filters.command(["سورس","السورس"],""))
 async def sourc(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph//file/a054bc6d56a5bebcb092d.jpg",
-        caption=f"""Welcome To Source""",
+        photo=f"https://graph.org/file/7f87be8bf898631bc70f5.jpg",
+        caption=f"""𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝗍𝗁𝖾 𝗆𝗈𝗈𝗇 𝗆𝗎𝗌𝗂𝖼 𝖻𝗈𝗍 .""",
         reply_markup=InlineKeyboardMarkup(
             [
             [
-                InlineKeyboardButton("السورس", url=f"https://t.me/o_xox")
+                InlineKeyboardButton("السورس", url=f"https://t.me/uzzdd")
                 ]
             ]
         ),
@@ -30,7 +30,7 @@ async def sourc(client: Client, message: Message):
     filters.command(["الاوامر"))
 async def khalid(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph//file/235b5af8b3f68f7b1a57e.jpg",
+        photo=f"https://graph.org/file/1626ce37ecb8ba14ee377.jpg",
         caption=f"""𝑤𝑒𝑙𝑐𝑜𝑚𝑒 {message.from_user.mention}
         
 « اليك قائـمة الاوامــر »
@@ -48,7 +48,7 @@ async def khalid(client: Client, message: Message):
       reply_markup=InlineKeyboardMarkup(
             [
             [
-                InlineKeyboardButton("السورس", url=f"https://t.me/o_xox")
+                InlineKeyboardButton("السورس", url=f"https://t.me/uzzdd")
                 ]
             ]
         ),
