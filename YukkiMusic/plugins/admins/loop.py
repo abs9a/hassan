@@ -27,7 +27,7 @@ LOOP_COMMAND = get_command("LOOP_COMMAND")
     & ~filters.edited
     & ~BANNED_USERS
 )
-@app.on_message(filters.command(["تكرار"],"")
+@app.on_message(filters.command(["تكرعععععار"],"")
 & filters.group
     & ~filters.edited
     & ~BANNED_USERS
