@@ -27,7 +27,7 @@ SEEK_COMMAND = get_command("SEEK_COMMAND")
     & ~filters.edited
     & ~BANNED_USERS
 )
-@app.on_message(filters.command(["تقديم","تاخير"],"")
+@app.on_message(filters.command(["تقدهههيم","تاخههههير"],"")
 & filters.group
     & ~filters.edited
     & ~BANNED_USERS
