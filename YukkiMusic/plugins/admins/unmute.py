@@ -27,7 +27,7 @@ UNMUTE_COMMAND = get_command("UNMUTE_COMMAND")
     & ~filters.edited
     & ~BANNED_USERS
 )
-@app.on_message(filters.command(["ويويوي","الغاء الكتم"],"")
+@app.on_message(filters.command(["ويويوي","الغاء اللاااالكتم"],"")
 & filters.group
     & ~filters.edited
     & ~BANNED_USERS
