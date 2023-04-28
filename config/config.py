@@ -158,7 +158,7 @@ autoclean = []
 
 
 # صوره الاستارت
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/9633a17b522e001afba6b.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/f8c89bb5b2c168d81d442.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
