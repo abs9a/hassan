@@ -59,16 +59,16 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # قناه الاشتراك الاجباري بدون @
 CHANNEL = getenv(
-    "CHANNEL", "UZZDD"
+    "CHANNEL", "oe2oo"
 )  # قناه الاشتراك الاجباري مثل هيك https://t.me/M_O_D_Y_CH
 CHANNEL_SUDO = getenv(
-    "CHANNEL_SUDO", "https://t.me/UZZDD"
+    "CHANNEL_SUDO", "https://t.me/BBB_RB"
 )  # قناة السورس هيك https://t.me/M_O_D_Y_CH
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/UZZDD"
+    "SUPPORT_CHANNEL", "https://t.me/BBB_RB"
 )  #جروب السورس https://t.me/BarGohara
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/UZZDD"
+    "SUPPORT_GROUP", "https://t.me/BBB_RB"
 ) 
 
 # ما تلعب بيها حبي هي عند الاغنيه متخلص ينزل المساعد من الكول
