@@ -10,11 +10,11 @@ from pyrogram import filters
 load_dotenv()
 
 # الايبيهات الهاش والايدي بنجبهم من هنا my.telegram.org
-API_ID = int(getenv("API_ID", "12987601"))
-API_HASH = getenv("API_HASH","a6581bb9160931c45197461bb7e81f90")
+API_ID = int(getenv("API_ID", "18349087"))
+API_HASH = getenv("API_HASH","eb20afa0e1d09401066b82bebf079ce2")
 
 ## توكن البوت بنجيبو من هنا @Botfather in Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN","1480911289:AAHFn14TpnylOLe3F04CYQdsiVKHgySGmKk")
+BOT_TOKEN = getenv("BOT_TOKEN","5974913213:AAFGvyPPwa2q3EjRjxGKcwjMk_P4pbbjHCI")
 
 # المونج لو ممعكش سيبو زي مهوه
 MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://moon:bootsmoon@cluster0.uyvnnox.mongodb.net/?retryWrites=true&w=majority")
@@ -33,11 +33,11 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001645162547"))
 
 # اسم البوت مينفعش تكتبو مزغرف
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","moon")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","Twix Music")
 
 # ايديهات المطورين الملاك
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "5217623359").split())
+    map(int, getenv("OWNER_ID", "5469634070").split())
 ) 
 
 # سيبو زي مهوه ملهوش لزمه
@@ -135,7 +135,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 
 
 # جلسه البايروجران تقدر تجبها من هنا@helal_trmix_BOT
-STRING1 = getenv("STRING_SESSION", "AgBjHXt8yJJ4FqeICl93dgv5fNTdz4xG0UctSQowZ6VVnbKgOutD6SXTUtBJMlVEymWpfKDe9QiGw9FG-xRJC3_B1pgjknceZ5WiObXtAnt_30hiu2VRUd6Dj8OKJirLamV95VyXuBnE9GEJiNr1HpXVnZG0hPPFuhwF-E188xuMbXQJQ6Mc4BZ5S6x5FyLvy8fMDV7eYYmBQK6ohnpIrhLDK6z5MJucuDWpTCYASL3mxjALO_PRMy8QzsHjhR0SOMY5487lrrZH5MrdoyYHKgIenw07WId8Q4-Q04arydkkW590zXF0Gzid5_cQrcBY9leQywgRzcwAzYyWfDCRo7VZAAAAAUjjBCwA")
+STRING1 = getenv("STRING_SESSION", "AgAbfVWs-ADhEUcZCtRjdpJiQ8NB-q7yl-h-SzZfcTWX_ex5oQY3s5hwQpCYyFzBsv5hd8TN5jowvAp8dLzl9APXM6xqFmd3Pn7RUH18E8qAHjEbG6_4A-AbCc7pQR5Tem0T7m3vQETdwZOQ0Fcy1rfb5NJdOYkaNZrzl6YFZo344O9AHbxD_uhQ1kPW_F_gDHctBI2Hm-1-Evn3BR-9DoULqHg1_XwxtX0eKIdnIvVg0t_LlrKX9fO1imy8NX0karLuE96AEJ_4trCYkNxlWdalccaB1yAJOMHh5cBrOhhsie_pVBeDnLZsRt6hCdn2Vbhdor6pBt3i2sGisOVUcJV2AAAAAUR2spcA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
